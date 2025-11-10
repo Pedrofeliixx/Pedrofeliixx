@@ -1,5 +1,52 @@
 ## Bem-vindo(a) ao perfil Pedrofeliixx
 
+# 👋 Olá! Eu sou Pedro Félix  
+
+🎯 **Estudante de Ciência de Dados | Python | SQL | Excel | Matplotlib**
+
+Atualmente, estou aprimorando minhas habilidades na área de **Ciência de Dados** com foco em análise, visualização e manipulação de dados.  
+Estou estudando através dos cursos da **Alura**, desenvolvendo projetos práticos e consolidando conceitos fundamentais com **Python**, **SQLite (SQL)** e **Excel**.
+
+---
+
+## 🧠 Tecnologias e Ferramentas que utilizo:
+- 🐍 **Python** (Pandas, NumPy, Matplotlib)
+- 🧩 **SQL (SQLite)**
+- 📊 **Excel (nível intermediário)**
+- 📓 **Jupyter Notebook** e **Google Colab**
+
+---
+
+## 📈 O que estou aprendendo no momento:
+- Criação de visualizações de dados com **Matplotlib**
+- Organização e análise de dados com **Python + Pandas**
+- Boas práticas em **SQL para análise de dados**
+- Automatização de tarefas e análise exploratória de dados
+
+---
+
+## 💡 Objetivo:
+Busco minha primeira oportunidade na área de **Análise de Dados**, para aplicar o que venho aprendendo e continuar evoluindo profissionalmente.  
+Estou sempre em busca de novos desafios e projetos que me ajudem a colocar meus conhecimentos em prática.
+
+---
+
+## 📫 Onde me encontrar:
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+- 🐙 [GitHub](https://github.com/Pedrofeliixx)
+
+---
+
+
+
+
+
+
+
+
+
+
+
 <div>
    <a href="https://github.com/Pedrofeliixx">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrofeliixx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
