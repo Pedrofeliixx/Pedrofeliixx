@@ -1,49 +1,49 @@
-## Bem-vindo(a) ao perfil Pedrofeliixx
+👋 Olá! Eu sou Pedro Félix
+Desenvolvedor Backend Python | FastAPI | SQL
+Desenvolvedor backend focado em construir APIs robustas e escaláveis com Python. Busco minha primeira oportunidade profissional para aplicar meus conhecimentos em desenvolvimento de sistemas e continuar evoluindo na área.
 
-# 👋 Olá! Eu sou Pedro Félix  
+🚀 Tecnologias & Ferramentas
+Backend:
 
-🎯 **Estudante de Ciência de Dados | Python | SQL | Excel | Matplotlib**
+Python (FastAPI, Flask)
+APIs RESTful
+SQL (SQLite, PostgreSQL)
+Autenticação e autorização (JWT)
 
-Atualmente, estou aprimorando minhas habilidades na área de **Ciência de Dados** com foco em análise, visualização e manipulação de dados.  
-Estou estudando através dos cursos da **Alura**, desenvolvendo projetos práticos e consolidando conceitos fundamentais com **Python**, **SQLite (SQL)** e **Excel**.
+Ferramentas:
 
----
+Git & GitHub
+Docker (em estudo)
+Postman/Insomnia
+VS Code
 
-## 🧠 Tecnologias e Ferramentas que utilizo:
-- 🐍 **Python** (Pandas, NumPy, Matplotlib)
-- 🧩 **SQL (SQLite)**
-- 📊 **Excel (nível intermediário)**
-- 📓 **Jupyter Notebook** e **Google Colab**
+Conhecimentos complementares:
 
----
-
-## 📈 O que estou aprendendo no momento:
-- Criação de visualizações de dados com **Matplotlib**
-- Organização e análise de dados com **Python + Pandas**
-- Boas práticas em **SQL para análise de dados**
-- Automatização de tarefas e análise exploratória de dados
-
----
-
-## 💡 Objetivo:
-Busco minha primeira oportunidade na área de **Análise de Dados**, para aplicar o que venho aprendendo e continuar evoluindo profissionalmente.  
-Estou sempre em busca de novos desafios e projetos que me ajudem a colocar meus conhecimentos em prática.
-
----
-
-## 📫 Onde me encontrar:
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- 🐙 [GitHub](https://github.com/Pedrofeliixx)
-
----
+Pandas, NumPy (manipulação de dados)
+Testes unitários
+Boas práticas de código limpo
 
 
+💼 Projetos em Destaque
+
+📌 Adicione aqui 2-3 projetos de backend que demonstrem suas habilidades
+
+[FastAPI_zero] - Breve descrição do que o projeto faz
+
+Tecnologias: FastAPI, SQLite, JWT
+Link do repositório
+(em desenvolvimento)
+
+📚 Atualmente estudando
+
+Arquitetura de APIs RESTful
+Design Patterns para backend
+Docker e containerização
+Boas práticas de segurança em APIs
 
 
-
-
-
-
+🎯 Objetivo Profissional
+Busco minha primeira oportunidade como Desenvolvedor Backend Python para aplicar meus conhecimentos técnicos, contribuir com soluções eficientes e crescer em um ambiente colaborativo de desenvolvimento.
 
 
 
