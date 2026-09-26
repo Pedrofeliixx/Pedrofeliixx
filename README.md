@@ -7,7 +7,7 @@ Trabalho com dados e inteligência artificial **em produção** num e-commerce: 
 Venho de projetos de dados (ETL com Pandas, Oracle/OCI, dashboards em Streamlit) e desenvolvimento web (FastAPI, Node.js) e agora uno as duas coisas: **construir em código os sistemas de IA que opero no dia a dia**, como RAG, avaliação de LLMs e agentes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Vitório-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrovitorio-dados)
-[![Site](https://img.shields.io/badge/Site-pedrovt.dev-111111?style=flat&logo=googlechrome&logoColor=white)](https://pedrovt.dev)
+[![Site](https://img.shields.io/badge/Site-pedrovt.dev-111111?style=flat&logo=googlechrome&logoColor=white)](https:instagram//pedrovt.dev)
 [![Email](https://img.shields.io/badge/Email-contato-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pereraflix15@gmail.com)
 
 ---
