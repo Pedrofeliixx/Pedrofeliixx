@@ -58,7 +58,7 @@ Venho de projetos de dados (ETL com Pandas, Oracle/OCI, dashboards em Streamlit)
 
 | Projeto | O que resolve | Status |
 | --- | --- | --- |
-| **Analisador de conversas de atendimento** | Python + SQL + LLM para descobrir por que e quando os clientes procuram o atendimento | 🔨 Em construção |
+| **Analisador de conversas de atendimento** | Python + SQL + LLM para descobrir por que e quando os clientes procuram o atendimento | ✅ Concluído |
 | **Assistente RAG para e-commerce** | Chatbot que responde dúvidas sobre trocas, frete e pedidos citando a fonte, com demo online | 📅 Planejado |
 | **Avaliação automatizada de agentes** | Conjunto de testes que mede acertos e alucinações e compara versões de prompt | 📅 Planejado |
 | **Atendente multiagente** | Orquestrador + sub-agentes especializados com roteamento de modelo por custo | 📅 Planejado |
