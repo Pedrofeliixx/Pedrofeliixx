@@ -4,10 +4,10 @@
 
 Trabalho com dados e inteligência artificial **em produção** num e-commerce: uso **SQL** para analisar dados operacionais da integração VTEX + ERP Winthor e configuro e mantenho um agente de atendimento ao cliente em **arquitetura multiagente**, escrevendo e versionando os *system prompts* que definem seu comportamento e cuidando da base de conhecimento que ele consulta.
 
-Venho de projetos de dados (ETL com Pandas, Oracle/OCI, dashboards em Streamlit) e desenvolvimento web (FastAPI, Node.js) e agora uno as duas coisas: **construir em código os sistemas de IA que opero no dia a dia**, como RAG, avaliação de LLMs e agentes.
+Venho de projetos de dados (Pandas, Oracle/OCI, dashboards em Streamlit) e desenvolvimento web (FastAPI, Node.js) e agora uno as duas coisas: **construir em código os sistemas de IA que opero no dia a dia**, como RAG, avaliação de LLMs e agentes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Vitório-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrovitorio-dados)
-[![Site](https://img.shields.io/badge/Site-pedrovt.dev-111111?style=flat&logo=googlechrome&logoColor=white)](https://www.instagram.com/pedrovt.dev/)
+[![Site](https://img.shields.io/badge/Site-pedrovt.dev-111111?style=flat&logo=googlechrome&logoColor=white)](https://pedrovt.dev)
 [![Email](https://img.shields.io/badge/Email-contato-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pereraflix15@gmail.com)
 
 ---
@@ -58,7 +58,7 @@ Venho de projetos de dados (ETL com Pandas, Oracle/OCI, dashboards em Streamlit)
 
 | Projeto | O que resolve | Status |
 | --- | --- | --- |
-| **Analisador de conversas de atendimento** | Python + SQL + LLM para descobrir por que e quando os clientes procuram o atendimento | ✅ Concluído |
+| [**Analisador de conversas de atendimento**](https://github.com/Pedrofeliixx/analisador-conversas) | Python, SQL e LLM (API do Claude) para classificar sentimento e urgência de mensagens de clientes, com comparação entre versões de prompt | ✅ Concluído |
 | **Assistente RAG para e-commerce** | Chatbot que responde dúvidas sobre trocas, frete e pedidos citando a fonte, com demo online | 📅 Planejado |
 | **Avaliação automatizada de agentes** | Conjunto de testes que mede acertos e alucinações e compara versões de prompt | 📅 Planejado |
 | **Atendente multiagente** | Orquestrador + sub-agentes especializados com roteamento de modelo por custo | 📅 Planejado |
@@ -68,7 +68,6 @@ Venho de projetos de dados (ETL com Pandas, Oracle/OCI, dashboards em Streamlit)
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
 | [**projeto-relatorio-interativo**](https://github.com/Pedrofeliixx/projeto-relatorio-interativo) | Painel web interativo com upload de CSV, filtros e gráficos dinâmicos para geração de relatórios | Python · Streamlit · Pandas · Plotly |
-| [**etl-pandas-oracle**](https://github.com/Pedrofeliixx/etl-pandas-oracle) | Pipeline ETL: extração, tratamento e carga de dados em banco Oracle | Python · Pandas · Oracle · SQL |
 | [**oracle-migration-oci**](https://github.com/Pedrofeliixx/oracle-migration-oci) | Migração de banco de dados para Oracle Cloud Infrastructure | Oracle · OCI · SQL |
 | [**fastapi_zero**](https://github.com/Pedrofeliixx/fastapi_zero) | API REST com estrutura escalável | Python · FastAPI |
 
